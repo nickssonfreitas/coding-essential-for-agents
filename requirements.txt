@@ -1,0 +1,13 @@
+pandas
+numpy
+openai
+google-generativeai
+matplotlib
+psycopg2-binary
+pymysql
+mysql-connector-python
+flask
+huggingface_hub
+ipywidgets
+transformers
+accelerate
